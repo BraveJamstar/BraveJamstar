@@ -16,19 +16,37 @@ jobs:
       - name: Set up environment
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch and print quote
+      - name: Fetch and process quote
         run: |
           # Fetch the quote of the day
           QUOTE_JSON=$(curl -s https://zenquotes.io/api/today)
-          
-          # Print the raw JSON response
-          echo "Raw API response:"
-          echo "$QUOTE_JSON"
           
           # Parse the quote and author
           QUOTE=$(echo "$QUOTE_JSON" | jq -r '.[0].q')
           AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.[0].a')
 
-          # Print the parsed quote and author
-          echo "Quote: $QUOTE"
-          echo "Author: $AUTHOR"
+          # Create a new quote section
+          NEW_QUOTE_SECTION="### 💡 Quote of the Day\n\n_$QUOTE_ – $AUTHOR\n"
+
+          # Read the current README file
+          README_FILE="README.md"
+          CONTENT=$(cat $README_FILE)
+
+          # Remove the old quote section
+          UPDATED_CONTENT=$(echo "$CONTENT" | sed -e '/### 💡 Quote of the Day/,+3d')
+
+          # Add the new quote section
+          UPDATED_CONTENT=$(echo "$UPDATED_CONTENT" | sed -e "s|### 💡 Quote of the Day|${NEW_QUOTE_SECTION}### 💡 Quote of the Day|")
+
+          # Write the updated content back to the README file
+          echo "$UPDATED_CONTENT" > $README_FILE
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "${{ secrets.GIT_USERNAME }}"
+          git config --local user.email "${{ secrets.GIT_EMAIL }}"
+          git add README.md
+          git commit -m "Update quote of the day"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
