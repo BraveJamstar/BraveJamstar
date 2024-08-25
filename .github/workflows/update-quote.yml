@@ -25,38 +25,34 @@ jobs:
           QUOTE=$(echo "$QUOTE_JSON" | jq -r '.[0].q')
           AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.[0].a')
 
-          # Print the fetched quote for debugging
-          echo "Fetched Quote: $QUOTE"
-          echo "Author: $AUTHOR"
-
           # Create a new quote section
           NEW_QUOTE_SECTION="### 💡 Quote of the Day\n\n_$QUOTE_ – $AUTHOR\n"
 
           # Print the new quote section for debugging
           echo "New Quote Section:\n$NEW_QUOTE_SECTION"
 
-          # Read the current README file
+          # Read the current README file and store in a variable
           README_FILE="README.md"
+          CURRENT_CONTENT=$(cat $README_FILE)
 
           # Print current README content for debugging
-          echo "Current README content:"
-          cat $README_FILE
+          echo "Current README content:\n$CURRENT_CONTENT"
 
-          # Check if the quote section exists and replace it
-          if grep -q '### 💡 Quote of the Day' $README_FILE; then
-            # Remove the old quote section
-            awk '/### 💡 Quote of the Day/{f=1; next} /### 💡 Quote of the Day/{f=0} !f' $README_FILE > temp_file && mv temp_file $README_FILE
+          # Remove old quote section if it exists
+          if echo "$CURRENT_CONTENT" | grep -q '### 💡 Quote of the Day'; then
+            # Remove the old quote section and update README
+            echo "$CURRENT_CONTENT" | sed '/### 💡 Quote of the Day/,+3d' > $README_FILE
             echo "Old quote section removed."
           else
             echo "No old quote section found."
           fi
 
           # Append the new quote section
-          sed -i "/### 💡 Quote of the Day/ a $NEW_QUOTE_SECTION" $README_FILE
+          echo -e "$NEW_QUOTE_SECTION" >> $README_FILE
 
           # Print the updated README content for debugging
-          echo "Updated README content:"
-          cat $README_FILE
+          UPDATED_CONTENT=$(cat $README_FILE)
+          echo "Updated README content:\n$UPDATED_CONTENT"
 
       - name: Commit and push changes
         run: |
