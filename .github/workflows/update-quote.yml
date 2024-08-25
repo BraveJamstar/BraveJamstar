@@ -28,17 +28,23 @@ jobs:
           echo "### 💡 Quote of the Day" > $TEMP_FILE
           echo "" >> $TEMP_FILE
           echo "_“${{ env.QUOTE }}” – ${{ env.AUTHOR }}_" >> $TEMP_FILE
-          
-          # Replace the old quote section with the new one
+
+          # Create a backup of the current README.md
+          cp README.md README.md.bak
+
+          # Replace the quote section in README.md
           awk -v RS="" -v ORS="" '
-          BEGIN { quote=0 }
-          /### 💡 Quote of the Day/ { quote=1; next }
-          /_“PLACEHOLDER” – AUTHOR_/ { quote=0 }
-          quote { next }
-          { print }
-          ' README.md > temp.md
-          cat $TEMP_FILE >> temp.md
-          mv temp.md README.md
+          /### 💡 Quote of the Day/ { 
+            print
+            print "### 💡 Quote of the Day\n" 
+            print "_“PLACEHOLDER” – AUTHOR_\n"
+            next
+          }
+          !/### 💡 Quote of the Day/ { print }
+          ' README.md.bak > README.md
+
+          # Append the new quote to the README.md
+          cat $TEMP_FILE >> README.md
 
       - name: Commit and Push Changes
         run: |
