@@ -30,16 +30,15 @@ jobs:
 
           # Read the current README file
           README_FILE="README.md"
-          CONTENT=$(cat $README_FILE)
 
-          # Remove the old quote section
-          UPDATED_CONTENT=$(echo "$CONTENT" | sed -e '/### 💡 Quote of the Day/,+3d')
+          # Check if the quote section exists and replace it
+          if grep -q '### 💡 Quote of the Day' $README_FILE; then
+            # Remove the old quote section
+            awk '/### 💡 Quote of the Day/{f=1; next} /### 💡 Quote of the Day/{f=0} !f' $README_FILE > temp_file && mv temp_file $README_FILE
+          fi
 
-          # Add the new quote section
-          UPDATED_CONTENT=$(echo "$UPDATED_CONTENT" | sed -e "s|### 💡 Quote of the Day|${NEW_QUOTE_SECTION}### 💡 Quote of the Day|")
-
-          # Write the updated content back to the README file
-          echo "$UPDATED_CONTENT" > $README_FILE
+          # Append the new quote section before the final section
+          sed -i "/### 💡 Quote of the Day/ a $NEW_QUOTE_SECTION" $README_FILE
 
       - name: Commit and push changes
         run: |
