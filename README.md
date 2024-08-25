@@ -37,8 +37,6 @@ When I'm not coding, you can find me:
 
 _Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua_
 
-_Loading quote..._ 
-
 ---
 
 Thanks for stopping by!
