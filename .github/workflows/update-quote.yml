@@ -1,34 +1,21 @@
-# This is a basic workflow to update the Quote of the Day in the README
-
 name: Update Quote of the Day
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
-  # Runs daily at midnight UTC
   schedule:
     - cron: '0 0 * * *'
 
 jobs:
-  # This workflow contains a single job called "update-readme"
   update-readme:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Fetches the quote of the day from the ZenQuotes API
       - name: Fetch Quote
         id: fetch_quote
         run: |
@@ -36,16 +23,15 @@ jobs:
           author=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].a')
           echo "$quote – $author" > quote.txt
 
-      # Updates the README.md with the new quote
       - name: Update README
         run: |
           quote=$(cat quote.txt)
           sed -i "s|### 💡 Quote of the Day.*|### 💡 Quote of the Day\n\n_${quote}_|" README.md
 
-      # Commits the changes to the repository
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: ${{ secrets.GIT_AUTHOR_NAME }}
-          author_email: ${{ secrets.GIT_AUTHOR_EMAIL }}
-          message: 'Update quote of the day'
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m "Update quote of the day"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
