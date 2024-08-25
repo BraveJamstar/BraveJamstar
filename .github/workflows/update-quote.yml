@@ -33,7 +33,7 @@ jobs:
           echo "Quote Author: $AUTHOR"
 
           # Create a new quote section
-          NEW_QUOTE_SECTION="### 💡 Quote of the Day\n\n_$QUOTE_ – $AUTHOR\n"
+          NEW_QUOTE_SECTION="### 💡 Quote of the Day\n\n $QUOTE – $AUTHOR\n"
 
           # Print the new quote section for debugging
           echo "New Quote Section:\n$NEW_QUOTE_SECTION"
