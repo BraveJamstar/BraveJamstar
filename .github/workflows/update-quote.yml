@@ -21,9 +21,16 @@ jobs:
           # Fetch the quote of the day
           QUOTE_JSON=$(curl -s https://zenquotes.io/api/today)
           
+          # Print the raw JSON for debugging
+          echo "Raw JSON Response: $QUOTE_JSON"
+
           # Parse the quote and author
           QUOTE=$(echo "$QUOTE_JSON" | jq -r '.[0].q')
           AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.[0].a')
+
+          # Print parsed quote and author for debugging
+          echo "Parsed Quote: $QUOTE"
+          echo "Quote Author: $AUTHOR"
 
           # Create a new quote section
           NEW_QUOTE_SECTION="### 💡 Quote of the Day\n\n_$QUOTE_ – $AUTHOR\n"
