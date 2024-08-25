@@ -1,37 +1,36 @@
-name: Update Quote of the Day
+name: Update GitHub Profile with Quote
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Fetch Quote
-        id: fetch_quote
+      - name: Fetch Quote of the Day
+        id: get_quote
         run: |
-          quote=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].q')
-          author=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].a')
-          echo "$quote – $author" > quote.txt
+          response=$(curl -s https://zenquotes.io/api/today)
+          quote=$(echo $response | jq -r '.[0].q')
+          author=$(echo $response | jq -r '.[0].a')
+          echo "QUOTE=\"$quote\"" >> $GITHUB_ENV
+          echo "AUTHOR=\"$author\"" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          quote=$(cat quote.txt)
-          sed -i "s|### 💡 Quote of the Day.*|### 💡 Quote of the Day\n\n_${quote}_|" README.md
+          # Replace the placeholder with the new quote
+          sed -i "s|_“PLACEHOLDER” – AUTHOR_|_“${{ env.QUOTE }}” – ${{ env.AUTHOR }}_|" README.md
 
-      - name: Commit changes
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "${{ secrets.GIT_USERNAME }}"
-          git config --global user.email "${{ secrets.GIT_EMAIL }}"
+          git config --local user.name "${{ secrets.GIT_EMAIL }}"
+          git config --local user.email "${{ secrets.GIT_USERNAME }}"
           git add README.md
-          git commit -m "Update quote of the day"
-          git push "https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+          git commit -m "Update Quote of the Day"
+          git remote set-url origin https://${{ secrets.PAT_TOKEN }}:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+          git push origin main
