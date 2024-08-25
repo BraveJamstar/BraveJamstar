@@ -1,6 +1,6 @@
-# Welcome to BraveJamstar's GitHub! 
-👋![BraveJamstar Banner](./path/to/your/banner.gif)![Visitor Count](https://komarev.com/ghpvc/?username=BraveJamstar&style=flat-square) 
-![GitHub Followers](https://img.shields.io/github/followers/BraveJamstar?style=social) 
+# BraveJamstar's GitHub!👋
+![BraveJamstar Banner](./static/img/banner.png)
+![Visitor Count](https://komarev.com/ghpvc/?username=BraveJamstar&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/BraveJamstar?style=social) 
 
 ---
 
