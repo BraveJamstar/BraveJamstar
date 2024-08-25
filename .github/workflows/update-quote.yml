@@ -1,41 +1,37 @@
-name: Update GitHub Profile with Quote
+name: Update Quote of the Day
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-  update-profile:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Fetch Quote of the Day
-        id: get_quote
+      - name: Fetch Quote
+        id: fetch_quote
         run: |
-          response=$(curl -s https://zenquotes.io/api/today)
-          quote=$(echo $response | jq -r '.[0].q')
-          author=$(echo $response | jq -r '.[0].a')
-          echo "QUOTE=$quote" >> $GITHUB_ENV
-          echo "AUTHOR=$author" >> $GITHUB_ENV
+          quote=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].q')
+          author=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].a')
+          echo "$quote – $author" > quote.txt
 
       - name: Update README
         run: |
-          # Ensure the placeholder in your README.md is updated with the new quote
-          sed -i "s|<blockquote>.*</blockquote>|<blockquote>\"${{ env.QUOTE }}\" - ${{ env.AUTHOR }}</blockquote>|" README.md
+          quote=$(cat quote.txt)
+          sed -i "s|### 💡 Quote of the Day.*|### 💡 Quote of the Day\n\n_${quote}_|" README.md
 
-      - name: Commit and Push Changes
+      - name: Commit changes
         run: |
-          git config --local user.name "${{ secrets.GIT_USERNAME }}"
-          git config --local user.email "${{ secrets.GIT_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USERNAME }}"
+          git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git add README.md
-          git commit -m "Update Quote of the Day"
-          git remote set-url origin https://${{ secrets.GIT_USERNAME }}:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
-          git push origin main
-
-
-
-
-
+          git commit -m "Update quote of the day"
+          git push "https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
