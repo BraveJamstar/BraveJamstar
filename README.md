@@ -13,5 +13,3 @@ When I'm not coding, you can find me:
 - Exploring new tech trends
 - Building and optimizing gaming servers
 ---
-### 💡 Quote of the Day
-_“PLACEHOLDER” – AUTHOR_
