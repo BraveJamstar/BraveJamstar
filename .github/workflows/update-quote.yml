@@ -1,0 +1,40 @@
+name: Update Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Quote
+        id: fetch_quote
+        run: |
+          quote=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].q')
+          author=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].a')
+          echo "$quote – $author" > quote.txt
+
+      - name: Update README
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const quote = fs.readFileSync('quote.txt', 'utf8');
+            const filePath = 'README.md';
+            const fileContent = fs.readFileSync(filePath, 'utf8');
+            const newContent = fileContent.replace(
+              /_Loading quote..._/,
+              `### 💡 Quote of the Day\n\n_"${quote}"`
+            );
+            fs.writeFileSync(filePath, newContent);
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: ${{ secrets.GIT_AUTHOR_NAME }}
+          author_email: ${{ secrets.GIT_AUTHOR_EMAIL }}
+          message: 'Update quote of the day'
