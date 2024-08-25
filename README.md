@@ -12,9 +12,6 @@ When I'm not coding, you can find me:
 - Tinkering with hardware projects
 - Exploring new tech trends
 - Building and optimizing gaming servers
-- ---
-### 💡 Quote of the Day### 💡 Quote of the Day
+---
+### 💡 Quote of the Day
 _“PLACEHOLDER” – AUTHOR_
-_“Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.” – Celestine Chua_### 💡 Quote of the Day
-
-_“Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.” – Celestine Chua_
