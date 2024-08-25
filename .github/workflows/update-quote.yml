@@ -1,16 +1,34 @@
-name: Update Quote
+# This is a basic workflow to update the Quote of the Day in the README
 
+name: Update Quote of the Day
+
+# Controls when the workflow will run
 on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+  # Runs daily at midnight UTC
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
 
 jobs:
+  # This workflow contains a single job called "update-readme"
   update-readme:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Fetches the quote of the day from the ZenQuotes API
       - name: Fetch Quote
         id: fetch_quote
         run: |
@@ -18,20 +36,13 @@ jobs:
           author=$(curl -s https://zenquotes.io/api/today | jq -r '.[0].a')
           echo "$quote – $author" > quote.txt
 
+      # Updates the README.md with the new quote
       - name: Update README
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const fs = require('fs');
-            const quote = fs.readFileSync('quote.txt', 'utf8');
-            const filePath = 'README.md';
-            const fileContent = fs.readFileSync(filePath, 'utf8');
-            const newContent = fileContent.replace(
-              /_Loading quote..._/,
-              `### 💡 Quote of the Day\n\n_"${quote}"`
-            );
-            fs.writeFileSync(filePath, newContent);
+        run: |
+          quote=$(cat quote.txt)
+          sed -i "s|### 💡 Quote of the Day.*|### 💡 Quote of the Day\n\n_${quote}_|" README.md
 
+      # Commits the changes to the repository
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
