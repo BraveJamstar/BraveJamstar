@@ -25,27 +25,46 @@ jobs:
           QUOTE=$(echo "$QUOTE_JSON" | jq -r '.[0].q')
           AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.[0].a')
 
+          # Print the fetched quote for debugging
+          echo "Fetched Quote: $QUOTE"
+          echo "Author: $AUTHOR"
+
           # Create a new quote section
           NEW_QUOTE_SECTION="### 💡 Quote of the Day\n\n_$QUOTE_ – $AUTHOR\n"
 
+          # Print the new quote section for debugging
+          echo "New Quote Section:\n$NEW_QUOTE_SECTION"
+
           # Read the current README file
           README_FILE="README.md"
+
+          # Print current README content for debugging
+          echo "Current README content:"
+          cat $README_FILE
 
           # Check if the quote section exists and replace it
           if grep -q '### 💡 Quote of the Day' $README_FILE; then
             # Remove the old quote section
             awk '/### 💡 Quote of the Day/{f=1; next} /### 💡 Quote of the Day/{f=0} !f' $README_FILE > temp_file && mv temp_file $README_FILE
+            echo "Old quote section removed."
+          else
+            echo "No old quote section found."
           fi
 
-          # Append the new quote section before the final section
+          # Append the new quote section
           sed -i "/### 💡 Quote of the Day/ a $NEW_QUOTE_SECTION" $README_FILE
+
+          # Print the updated README content for debugging
+          echo "Updated README content:"
+          cat $README_FILE
 
       - name: Commit and push changes
         run: |
           git config --local user.name "${{ secrets.GIT_USERNAME }}"
           git config --local user.email "${{ secrets.GIT_EMAIL }}"
           git add README.md
-          git commit -m "Update quote of the day"
+          git status  # Debugging line to check what’s being committed
+          git commit -m "Update quote of the day" || echo "No changes to commit"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
