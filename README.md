@@ -35,9 +35,7 @@ When I'm not coding, you can find me:
 
 ### 💡 Quote of the Day
 
-_Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua_
-
-_Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua_
+_"PLACEHOLDER" – AUTHOR_
 
 ---
 
