@@ -1,4 +1,4 @@
-name: Update GitHub Profile with Quote
+name: Update Quote of the Day
 
 on:
   schedule:
@@ -6,58 +6,56 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-profile:
+  update-quote:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Fetch Quote of the Day
-        id: get_quote
-        run: |
-          response=$(curl -s https://zenquotes.io/api/today)
-          quote=$(echo $response | jq -r '.[0].q')
-          author=$(echo $response | jq -r '.[0].a')
-          echo "QUOTE=\"$quote\"" >> $GITHUB_ENV
-          echo "AUTHOR=\"$author\"" >> $GITHUB_ENV
+      - name: Set up environment
+        run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Update README
+      - name: Fetch and update quote
+        env:
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          # Create a temporary file with the new quote
+          # Fetch the quote of the day
+          QUOTE_JSON=$(curl -s https://zenquotes.io/api/today)
+          QUOTE=$(echo "$QUOTE_JSON" | jq -r '.[0].q')
+          AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.[0].a')
+
+          # Create the new content for the quote section
+          NEW_QUOTE_CONTENT=$(cat <<EOF
+### 💡 Quote of the Day
+
+_"$QUOTE"_ – $AUTHOR
+EOF
+)
+
+          # Update the README.md file
           TEMP_FILE=$(mktemp)
-          echo "### 💡 Quote of the Day" > $TEMP_FILE
-          echo "" >> $TEMP_FILE
-          echo "_“${{ env.QUOTE }}” – ${{ env.AUTHOR }}_" >> $TEMP_FILE
+          awk -v quote="$NEW_QUOTE_CONTENT" '
+            /### 💡 Quote of the Day/ {
+              in_quote_section = 1
+              next
+            }
+            in_quote_section && /^$/ {
+              in_quote_section = 0
+              next
+            }
+            !in_quote_section
+          ' README.md > $TEMP_FILE
 
-          # Create a backup of the current README.md
-          cp README.md README.md.bak
+          echo "$NEW_QUOTE_CONTENT" >> $TEMP_FILE
+          mv $TEMP_FILE README.md
 
-          # Replace the quote section in README.md
-          awk -v RS="" -v ORS="" '
-          /### 💡 Quote of the Day/ { 
-            print
-            print "### 💡 Quote of the Day\n" 
-            print "_“PLACEHOLDER” – AUTHOR_\n"
-            next
-          }
-          !/### 💡 Quote of the Day/ { print }
-          ' README.md.bak > README.md
-
-          # Append the new quote to the README.md
-          cat $TEMP_FILE >> README.md
-
-      - name: Pull and Push Changes
-        run: |
-          git config --local user.name "${{ secrets.GIT_USERNAME }}"
-          git config --local user.email "${{ secrets.GIT_EMAIL }}"
-
-          # Pull the latest changes from the remote repository
-          git pull --rebase origin main
-
-          # Stage and commit the updated README.md
+          # Commit and push changes
+          git config --local user.name "${GIT_USERNAME}"
+          git config --local user.email "${GIT_EMAIL}"
           git add README.md
           git commit -m "Update Quote of the Day"
-
-          # Set the remote URL and push the changes
-          git remote set-url origin https://"${{ secrets.GIT_USERNAME }}":${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
           git push origin main
