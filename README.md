@@ -1,7 +1,10 @@
 # Welcome to BraveJamstar's GitHub! 
 👋![BraveJamstar Banner](./path/to/your/banner.gif)![Visitor Count](https://komarev.com/ghpvc/?username=BraveJamstar&style=flat-square) 
-![GitHub Followers](https://img.shields.io/github/followers/BraveJamstar?style=social) ---
+![GitHub Followers](https://img.shields.io/github/followers/BraveJamstar?style=social) 
+
+---
 ### 🚀 About Me
+
 Hey there! I'm **BraveJamstar**, a developer who thrives on exploring cutting-edge technologies and pushing the boundaries of what's possible. Whether it's creating custom Minecraft mods, building advanced automation systems, or diving deep into server optimization, I'm all about turning ideas into reality.
 ---
 ### 🔧 My Tech ToolboxI work with a variety of languages, frameworks, and tools to bring my projects to life:
