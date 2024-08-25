@@ -2,8 +2,8 @@ name: Update Quote of the Day
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering from the Actions tab
 
 jobs:
   update-quote:
@@ -16,52 +16,19 @@ jobs:
       - name: Set up environment
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch and update quote
-        env:
-          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+      - name: Fetch and print quote
         run: |
           # Fetch the quote of the day
           QUOTE_JSON=$(curl -s https://zenquotes.io/api/today)
+          
+          # Print the raw JSON response
+          echo "Raw API response:"
+          echo "$QUOTE_JSON"
+          
+          # Parse the quote and author
           QUOTE=$(echo "$QUOTE_JSON" | jq -r '.[0].q')
           AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.[0].a')
 
-          # Create the new content for the quote section
-          NEW_QUOTE_CONTENT=$(cat <<EOF
-### 💡 Quote of the Day
-
-_"$QUOTE"_ – $AUTHOR
-EOF
-)
-
-          # Update the README.md file
-          TEMP_FILE=$(mktemp)
-          awk -v quote="$NEW_QUOTE_CONTENT" '
-            /### 💡 Quote of the Day/ {
-              in_quote_section = 1
-              next
-            }
-            in_quote_section && /^$/ {
-              in_quote_section = 0
-              next
-            }
-            !in_quote_section
-          ' README.md > $TEMP_FILE
-
-          echo "$NEW_QUOTE_CONTENT" >> $TEMP_FILE
-          mv $TEMP_FILE README.md
-
-          # Configure Git
-          git config --local user.name "${GIT_USERNAME}"
-          git config --local user.email "${GIT_EMAIL}"
-
-          # Fetch latest changes and rebase
-          git fetch origin main
-          git rebase origin/main
-
-          # Commit and push changes
-          git add README.md
-          git commit -m "Update Quote of the Day"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
-          git push origin main
+          # Print the parsed quote and author
+          echo "Quote: $QUOTE"
+          echo "Author: $AUTHOR"
