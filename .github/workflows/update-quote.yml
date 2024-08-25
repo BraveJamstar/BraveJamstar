@@ -23,14 +23,28 @@ jobs:
 
       - name: Update README
         run: |
-          # Replace the placeholder with the new quote
-          sed -i "s|_“PLACEHOLDER” – AUTHOR_|_“${{ env.QUOTE }}” – ${{ env.AUTHOR }}_|" README.md
+          # Create a temporary file with the new quote
+          TEMP_FILE=$(mktemp)
+          echo "### 💡 Quote of the Day" > $TEMP_FILE
+          echo "" >> $TEMP_FILE
+          echo "_“${{ env.QUOTE }}” – ${{ env.AUTHOR }}_" >> $TEMP_FILE
+          
+          # Replace the old quote section with the new one
+          awk -v RS="" -v ORS="" '
+          BEGIN { quote=0 }
+          /### 💡 Quote of the Day/ { quote=1; next }
+          /_“PLACEHOLDER” – AUTHOR_/ { quote=0 }
+          quote { next }
+          { print }
+          ' README.md > temp.md
+          cat $TEMP_FILE >> temp.md
+          mv temp.md README.md
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.name "${{ secrets.GIT_EMAIL }}"
-          git config --local user.email "${{ secrets.GIT_USERNAME }}"
+          git config --local user.name "${{ secrets.GIT_USERNAME }}"
+          git config --local user.email "${{ secrets.GIT_EMAIL }}"
           git add README.md
           git commit -m "Update Quote of the Day"
-          git remote set-url origin https://${{ secrets.PAT_TOKEN }}:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://"${{ secrets.GIT_USERNAME }}":${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
           git push origin main
