@@ -52,9 +52,15 @@ EOF
           echo "$NEW_QUOTE_CONTENT" >> $TEMP_FILE
           mv $TEMP_FILE README.md
 
-          # Commit and push changes
+          # Configure Git
           git config --local user.name "${GIT_USERNAME}"
           git config --local user.email "${GIT_EMAIL}"
+
+          # Fetch latest changes and rebase
+          git fetch origin main
+          git rebase origin/main
+
+          # Commit and push changes
           git add README.md
           git commit -m "Update Quote of the Day"
           git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
