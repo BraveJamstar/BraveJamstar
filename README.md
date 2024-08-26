@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-Hey there! I'm **BraveJamstar**, a developer who thrives on exploring cutting-edge technologies and pushing the boundaries of what's possible. Whether it's creating custom Minecraft mods, building advanced automation systems, or diving deep into server optimization, I'm all about turning ideas into reality and open sourcing all of it.
+Hey there! I'm **BraveJamstar**, a developer who thrives on exploring cutting-edge technologies and pushing the boundaries of what's possible. Whether it's creating custom Minecraft mods, building and researching AI, building advanced automation systems, or diving deep into server optimization, I'm all about turning ideas into reality and open sourcing all of it.
 
 ---
 
