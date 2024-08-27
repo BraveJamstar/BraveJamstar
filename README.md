@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Keep your face to the sunshine and you cannot see the shadows. – Helen Keller
+ Behind every beautiful thing, there's some kind of pain. – Bob Dylan
 
