@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Behind every beautiful thing, there's some kind of pain. – Bob Dylan
+ Talent is luck. The important thing in life is courage. – Woody Allen
 
