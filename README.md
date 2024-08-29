@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Talent is luck. The important thing in life is courage. – Woody Allen
+ Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  – George Washington
 
