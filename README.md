@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. – Steve Harvey
+ A lot of people have gone further than they thought they could because someone else thought they could. – Zig Ziglar
 
