@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time. – T.S. Eliot
+ Don't blame others. it won't make you a better person. – Lolly Daskal
 
