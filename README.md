@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't blame others. it won't make you a better person. – Lolly Daskal
+ A fall into a ditch makes you wiser. – Chinese Proverb
 
