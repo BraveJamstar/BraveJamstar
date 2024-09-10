@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- One small positive thought can change your whole day. – Zig Ziglar
+ A gentleman accepts the responsibility of his actions and bears the burden of their consequences. – William Faulkner
 
