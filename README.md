@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It is not fair to ask of others what you are not willing to do yourself. – Eleanor Roosevelt
+ Passion is energy. Feel the power that comes from focusing on what excites you.  – Oprah Winfrey
 
