@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Passion is energy. Feel the power that comes from focusing on what excites you.  – Oprah Winfrey
+ A strong man overcomes an obstacle, a wise man goes the whole way. – Zen Proverb
 
