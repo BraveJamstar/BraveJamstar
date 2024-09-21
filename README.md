@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Never whine, never complain, never try to justify yourself. – Robert Greene
+ There is no greatness where there is not simplicity, goodness, and truth. – Leo Tolstoy
 
