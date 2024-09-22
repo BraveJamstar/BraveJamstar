@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- There is no greatness where there is not simplicity, goodness, and truth. – Leo Tolstoy
+ Human beings can alter their lives by altering their attitudes of mind. – William James
 
