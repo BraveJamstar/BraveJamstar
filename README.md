@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Human beings can alter their lives by altering their attitudes of mind. – William James
+ You must be willing to do what others won't do, to have what others won't have. – Les Brown
 
