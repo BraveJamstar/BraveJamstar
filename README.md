@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- No man is free who is not master of himself. – Epictetus
+ Not everything that weighs you down is yours to carry. – Unknown
 
