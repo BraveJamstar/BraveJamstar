@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Judge a man by his questions rather than his answers. – Voltaire
+ Don't let the past steal your present. – Cherralea Morgen
 
