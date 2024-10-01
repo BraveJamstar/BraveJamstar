@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't let the past steal your present. – Cherralea Morgen
+ He that can have patience can have what he will. – Benjamin Franklin
 
