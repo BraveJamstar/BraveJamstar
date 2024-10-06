@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I never dwell on what happened. You can't change it. Move forward. – Joan Rivers
+ Listen to the secret sound, the real sound, which is inside you. – Kabir
 
