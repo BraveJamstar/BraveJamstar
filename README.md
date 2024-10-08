@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The eyes of others our prisons; their thoughts our cages. – Virginia Woolf
+ There is nothing more frightful than ignorance in action. – Johann Wolfgang von Goethe
 
