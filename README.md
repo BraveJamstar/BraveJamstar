@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Excellence is not a skill. It is an attitude.  – Ralph Marston
+ Forgive those who have hurt you. – Les Brown
 
