@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- There is no absolute success in the world, only constant progress. – Jonathan Swift
+ Where there is no struggle, there is no strength.  – Oprah Winfrey
 
