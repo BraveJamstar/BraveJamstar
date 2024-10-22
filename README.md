@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Where there is no struggle, there is no strength.  – Oprah Winfrey
+ Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.  – Jack London
 
