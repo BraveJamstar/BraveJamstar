@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Love is the absence of judgment. – Dalai Lama
+ Integrity is the ability to stand by an idea. – Ayn Rand
 
