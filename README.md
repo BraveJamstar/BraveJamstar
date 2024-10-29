@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We are always complaining that our days are few, and acting as though there would be no end of them.   – Seneca
+ Whenever people agree with me I always feel I must be wrong. – Oscar Wilde
 
