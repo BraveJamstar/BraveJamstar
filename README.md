@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Whenever people agree with me I always feel I must be wrong. – Oscar Wilde
+ Believe in your infinite potential. Your only limitations are those you set upon yourself. – Roy T. Bennett
 
