@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A lie can travel half way around the world while the truth is putting on its shoes. – Mark Twain
+ The purpose of life is the life of purpose. – Robin Sharma
 
