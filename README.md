@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Never let the fear of striking out keep you from playing the game. – Babe Ruth
+ Anyone who has ever made anything of importance was disciplined. – Andrew Hendrixson
 
