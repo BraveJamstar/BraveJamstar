@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness. – Eckhart Tolle
+ He who knows best knows how little he knows. – Thomas Jefferson
 
