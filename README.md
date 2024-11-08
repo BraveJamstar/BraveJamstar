@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It is indeed a radical act of love just to sit down and be quiet for a time by yourself. – Jon Kabat-Zinn
+ It is what we make out of what we have, not what we are given, that separates one person from another. – Nelson Mandela
 
