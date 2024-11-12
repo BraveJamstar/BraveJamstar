@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. – Kahlil Gibran
+ The best answer to anger is silence. – Marcus Aurelius
 
