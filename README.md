@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The best answer to anger is silence. – Marcus Aurelius
+ No man can get rich himself unless he enriches others. – Earl Nightingale
 
