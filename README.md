@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- No man can get rich himself unless he enriches others. – Earl Nightingale
+ Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again. – Og Mandino
 
