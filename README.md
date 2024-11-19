@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Passion creates, addiction consumes. – Gabor Mate
+ The opportunity of defeating the enemy is provided by the enemy himself. – Sun Tzu
 
