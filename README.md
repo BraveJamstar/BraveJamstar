@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The opportunity of defeating the enemy is provided by the enemy himself. – Sun Tzu
+ We suffer more often in imagination than in reality.   – Seneca
 
