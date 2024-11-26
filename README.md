@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The soul without imagination is what an observatory would be without a telescope. – Henry Ward Beecher
+ The way out is in. – Thich Nhat Hanh
 
