@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The way out is in. – Thich Nhat Hanh
+ Best be yourself, imperial, plain, and true. – Robert Browning
 
