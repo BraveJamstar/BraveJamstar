@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Best be yourself, imperial, plain, and true. – Robert Browning
+ It doesn't matter where you are, you are nowhere compared to where you can go. – Bob Proctor
 
