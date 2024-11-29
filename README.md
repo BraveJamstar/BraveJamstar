@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It doesn't matter where you are, you are nowhere compared to where you can go. – Bob Proctor
+ What's the point in being smart enough to read, if everything you read makes you dumb? – C. Sean McGee
 
