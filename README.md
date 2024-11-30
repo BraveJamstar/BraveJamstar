@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- What's the point in being smart enough to read, if everything you read makes you dumb? – C. Sean McGee
+ You are not the drop in the ocean, but the ocean in the drop. – Deepak Chopra
 
