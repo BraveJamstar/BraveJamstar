@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Believe in one thing too much and you have no room for new ideas.   – Ray Bradbury
+ Problems remain as problems because people are busy defending them rather than finding solutions. – Celestine Chua
 
