@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Decide whether or not the goal is worth the risks involved. If it is, stop worrying. – Amelia Earhart
+ If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. – T.S. Eliot
 
