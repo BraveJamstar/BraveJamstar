@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. – Elbert Hubbard
+ If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. – Dogen
 
