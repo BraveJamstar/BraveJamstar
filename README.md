@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We can see through others only when we can see through ourselves. – Bruce Lee
+ Whatever you are, be a good one. – Abraham Lincoln
 
