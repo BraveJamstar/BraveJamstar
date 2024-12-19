@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Whatever you are, be a good one. – Abraham Lincoln
+ Luck is a matter of preparation meeting opportunity. – Oprah Winfrey
 
