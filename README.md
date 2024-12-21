@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You'll get more from being a peacemaker than a warrior. – Arnold Schwarzenegger
+ Never spend your money before you have earned it. – Thomas Jefferson
 
