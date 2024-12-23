@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Longevity is a fleeting moment that lasts forever. – Vidal Sassoon
+ Be brave to stand for what you believe in even if you stand alone. – Roy T. Bennett
 
