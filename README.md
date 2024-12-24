@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be brave to stand for what you believe in even if you stand alone. – Roy T. Bennett
+ Muddy water is best cleared by leaving it alone. – Alan Watts
 
