@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A crisis is an opportunity riding the dangerous wind. – Chinese Proverb
+ Don't let anyone define you. You define yourself. – Billie Jean King
 
