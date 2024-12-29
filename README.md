@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't let anyone define you. You define yourself. – Billie Jean King
+ A Quitter never wins - and - a Winner never quits. – Napoleon Hill
 
