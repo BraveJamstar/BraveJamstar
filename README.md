@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A Quitter never wins - and - a Winner never quits. – Napoleon Hill
+ We have to live life with a sense of urgency so not a minute is wasted. – Les Brown
 
