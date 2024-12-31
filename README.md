@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We have to live life with a sense of urgency so not a minute is wasted. – Les Brown
+ The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich. – Carlos Ruiz Zafon
 
