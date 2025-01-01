@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich. – Carlos Ruiz Zafon
+ You have to make time, even for something as universal as staring at the stars. – W.P. Kinsella
 
