@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Yesterday is gone. Tomorrow has not yet come. We have only today. – Mother Teresa
+ Presents are made for the pleasure of who gives them, not the merits of who receives them. – Carlos Ruiz Zafon
 
