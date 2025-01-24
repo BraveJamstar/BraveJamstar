@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If the happiness and prosperity of other people depend on you, you have nothing to fear anymore. – Robert Greene
+ The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. – Josh Waitzkin
 
