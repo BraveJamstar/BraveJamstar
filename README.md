@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- How you think is as important as as what you think. – Unknown
+ You are free, and that is why you are lost.  – Franz Kafka
 
