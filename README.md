@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. – Steve Maraboli
+ Silence is a source of great strength. – Lao Tzu
 
