@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Your only obligation in any lifetime is to be true to yourself. – Richard Bach
+ Know yourself and you will win all battles. – Sun Tzu
 
