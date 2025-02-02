@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- What you get by achieving your goals is not as important as what you become by achieving your goals. – Henry David Thoreau
+ No one can hurt you without your consent. – Eleanor Roosevelt
 
