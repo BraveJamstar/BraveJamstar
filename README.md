@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- No one can hurt you without your consent. – Eleanor Roosevelt
+ The more knowledge you have, the more you're free to rely on your instincts. – Arnold Schwarzenegger
 
