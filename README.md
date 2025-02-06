@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- There is a wisdom of the head, and there is a wisdom of the heart. – Charles Dickens
+ Be happy now, without reason - or you never will be at all. – Dan Millman
 
