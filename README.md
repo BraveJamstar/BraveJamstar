@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be happy now, without reason - or you never will be at all. – Dan Millman
+ Create each day anew. – Morihei Ueshiba
 
