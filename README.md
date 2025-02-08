@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Create each day anew. – Morihei Ueshiba
+ Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. – Colin Powell
 
