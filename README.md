@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- All great truths begin as blasphemies. – George Bernard Shaw
+ Man's character is his fate. – Heraclitus
 
