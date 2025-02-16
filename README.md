@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If a thing is worth doing, it is worth doing badly. – Gilbert Chesterton
+ We are all born ignorant, but one must work hard to remain stupid. – Benjamin Franklin
 
