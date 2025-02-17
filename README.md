@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We are all born ignorant, but one must work hard to remain stupid. – Benjamin Franklin
+ Remember that sometimes not getting what you want is a wonderful stroke of luck. – Dalai Lama
 
