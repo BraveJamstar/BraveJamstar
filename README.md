@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Children are our greatest natural resource. – Herbert Hoover
+ By failing to prepare, you are preparing to fail. – Benjamin Franklin
 
