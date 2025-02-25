@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- By failing to prepare, you are preparing to fail. – Benjamin Franklin
+ Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. – Stephen King
 
