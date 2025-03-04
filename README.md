@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It doesn't matter where you are coming from. All that matters is where you are going.  – Brian Tracy
+ You don't need a weatherman to know which way the wind blows. – Bob Dylan
 
