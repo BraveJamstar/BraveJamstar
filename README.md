@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The world doesn't always give you want, but it often gives you what you need. – Naval Ravikant
+ Everything flows, nothing stands still. – Heraclitus
 
