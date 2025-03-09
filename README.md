@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Everything flows, nothing stands still. – Heraclitus
+ You'll see it when you believe it.  – Wayne Dyer
 
