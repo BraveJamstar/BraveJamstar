@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Giving back involves a certain amount of giving up. – Colin Powell
+ Be fascinated instead of frustrated. – Jim Rohn
 
