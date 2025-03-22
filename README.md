@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Life is what you make it. Always has been, always will be. – Eleanor Roosevelt
+ Excellence is not an exception, it is a prevailing attitude. – Colin Powell
 
