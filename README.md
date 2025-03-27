@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Write to help yourself, publish to help others. – Jack Butcher
+ Confidence is what you have before you understand the problem. – Woody Allen
 
