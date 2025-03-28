@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Confidence is what you have before you understand the problem. – Woody Allen
+ Intense love does not measure, it just gives. – Mother Teresa
 
