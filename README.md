@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. – Brian Tracy
+ Success is about creating value. – Candice Carpenter
 
