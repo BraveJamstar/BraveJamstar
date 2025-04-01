@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in. – Virginia Woolf
+ It's not the men in your life that matters, it's the life in your men. – Mae West
 
