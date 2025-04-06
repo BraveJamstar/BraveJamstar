@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If you are going to achieve excellence in big things, you develop the habit in little matters. – Colin Powell
+ Don't wish it were easier, wish you were better. – Jim Rohn
 
