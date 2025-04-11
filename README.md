@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- He who wishes to be obeyed must know how to command. – Niccolo Machiavelli
+ I can live without money, but I cannot live without love. – Judy Garland
 
