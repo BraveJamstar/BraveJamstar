@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Respect was invented to cover the empty place where love should be. – Leo Tolstoy
+ Without struggle, no progress and no result. Every breaking of habit produces a change in the machine. – G.I. Gurdjieff
 
