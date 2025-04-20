@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. – Zig Ziglar
+ Freedom lies in being bold. – Robert Frost
 
