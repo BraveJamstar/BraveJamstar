@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Your heart is the size of an ocean. Go find yourself in its hidden depths. – Rumi
+ When you judge another, you do not define them, you define yourself – Wayne Dyer
 
