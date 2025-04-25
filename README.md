@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You can't get to a place that you don't believe exists. – Unknown
+ Even if you persuade me, you won't persuade me. – Aristophanes
 
