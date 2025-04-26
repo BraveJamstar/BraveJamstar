@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Even if you persuade me, you won't persuade me. – Aristophanes
+ In the middle of difficulty lies opportunity. – Albert Einstein
 
