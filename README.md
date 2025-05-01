@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Those who cannot change their minds cannot change anything. – George Bernard Shaw
+ Duty makes us do things well, but love makes us do them beautifully.   – Zig Ziglar
 
