@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Duty makes us do things well, but love makes us do them beautifully.   – Zig Ziglar
+ Confidence is contagious. So is lack of confidence. – Vince Lombardi
 
