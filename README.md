@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The future belongs to those who learn more skills and combine them in creative ways. – Robert Greene
+ In youth we run into difficulties. In old age difficulties run into us.  – Beverly Sills
 
