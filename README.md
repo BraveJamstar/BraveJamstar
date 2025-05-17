@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- In youth we run into difficulties. In old age difficulties run into us.  – Beverly Sills
+ Sometimes you have to lose all you have to find out who you truly are. – Roy T. Bennett
 
