@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Sometimes you have to lose all you have to find out who you truly are. – Roy T. Bennett
+ Pleasure can be supported by an illusion; but happiness rests upon truth.  – Nicolas Chamfort
 
