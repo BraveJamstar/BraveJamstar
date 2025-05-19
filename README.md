@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Pleasure can be supported by an illusion; but happiness rests upon truth.  – Nicolas Chamfort
+ Nothing good ever comes of violence. – Martin Luther
 
