@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Nothing good ever comes of violence. – Martin Luther
+ An investment in knowledge pays the best interest. – Benjamin Franklin
 
