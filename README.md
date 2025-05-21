@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- An investment in knowledge pays the best interest. – Benjamin Franklin
+ Human beings believe just as they breathe - in order to survive. – Carlos Ruiz Zafon
 
