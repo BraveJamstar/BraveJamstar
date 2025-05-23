@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. – Spencer Johnson
+ The chief danger in life is that you may take too many precautions. – Alfred Adler
 
