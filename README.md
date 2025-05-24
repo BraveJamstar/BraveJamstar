@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The chief danger in life is that you may take too many precautions. – Alfred Adler
+ Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.  – Paramahansa Yogananda
 
