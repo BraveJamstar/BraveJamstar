@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.  – Paramahansa Yogananda
+ Be where your enemy is not. – Sun Tzu
 
