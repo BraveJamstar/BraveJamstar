@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be where your enemy is not. – Sun Tzu
+ Deliberately seek the company of people who influence you to think and act on building the life you desire. – Napoleon Hill
 
