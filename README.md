@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Thinking will not overcome fear but action will.  – W. Clement Stone
+ To some degree, you control your life by controlling your time. – Conrad Hilton
 
