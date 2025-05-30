@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We forge the chains we wear in life. – Charles Dickens
+ Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. – Harry S. Truman
 
