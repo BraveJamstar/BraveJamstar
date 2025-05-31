@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. – Harry S. Truman
+ Everyone is a moon, and has a dark side which he never shows to anybody. – Mark Twain
 
