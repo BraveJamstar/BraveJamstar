@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Everyone is a moon, and has a dark side which he never shows to anybody. – Mark Twain
+ Time goes from present to past. – Shunryu Suzuki
 
