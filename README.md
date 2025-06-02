@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Time goes from present to past. – Shunryu Suzuki
+ Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. – Dogen
 
