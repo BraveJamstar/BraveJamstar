@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. – Dogen
+ Dreams are the touchstones of our characters. – Henry David Thoreau
 
