@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Dreams are the touchstones of our characters. – Henry David Thoreau
+ Through selfless service, you will always be fruitful and find the fulfillment of your desires. – Bhagavad Gita
 
