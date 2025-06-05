@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Through selfless service, you will always be fruitful and find the fulfillment of your desires. – Bhagavad Gita
+ There are two things a person should never be angry at, what they can help, and what they cannot. – Plato
 
