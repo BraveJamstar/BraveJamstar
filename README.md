@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. – Ming-Dao Deng
+ Youth has no age. – Pablo Picasso
 
