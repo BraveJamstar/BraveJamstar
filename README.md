@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Youth has no age. – Pablo Picasso
+ If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream. – Arnold Schwarzenegger
 
