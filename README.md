@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- One is never afraid of the unknown; one is afraid of the known coming to an end. – Jiddu Krishnamurti
+ When you want to be honored by others, you learn to honor them first. – Sathya Sai Baba
 
