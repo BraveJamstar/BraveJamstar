@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Even in the grave, all is not lost. – Edgar Allan Poe
+ Debt is the slavery of the free. – Publilius Syrus
 
