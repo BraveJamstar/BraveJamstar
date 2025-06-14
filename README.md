@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Most people fail in life because they major in minor things. – Tony Robbins
+ The key to success is action. – Brian Tracy
 
