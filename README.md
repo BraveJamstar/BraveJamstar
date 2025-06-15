@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The key to success is action. – Brian Tracy
+ Little minds have little worries, big minds have no time for worries. – Ralph Waldo Emerson
 
