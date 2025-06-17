@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Facts are the enemy of truth.  – Miguel de Cervantes
+ It's not what you pay a man, but what he costs you that counts. – Will Rogers
 
