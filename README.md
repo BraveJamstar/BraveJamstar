@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You can tell more about a person by what he says about others than you can by what others say about him. – Audrey Hepburn
+ A self that goes on changing is a self that goes on living. – Virginia Woolf
 
