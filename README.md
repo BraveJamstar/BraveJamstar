@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A self that goes on changing is a self that goes on living. – Virginia Woolf
+ Life happens in the river, not the shore. – Maxime Lagace
 
