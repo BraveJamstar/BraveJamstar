@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Life happens in the river, not the shore. – Maxime Lagace
+ In the middle of chaos lies opportunity.   – Bruce Lee
 
