@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- In the middle of chaos lies opportunity.   – Bruce Lee
+ If you chase two rabbits, you catch none. – Confucius
 
