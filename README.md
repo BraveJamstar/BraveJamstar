@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If you chase two rabbits, you catch none. – Confucius
+ A person hears only what they understand. – Johann Wolfgang von Goethe
 
