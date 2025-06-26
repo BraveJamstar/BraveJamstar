@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Wheels of justice grind slow but grind fine. – Sun Tzu
+ Discontent is the first necessity of progress. – Thomas Edison
 
