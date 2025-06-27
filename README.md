@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Discontent is the first necessity of progress. – Thomas Edison
+ For fast-acting relief try slowing down. – Lily Tomlin
 
