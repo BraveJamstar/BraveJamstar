@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- For fast-acting relief try slowing down. – Lily Tomlin
+ Sadness is but a wall between two gardens. – Kahlil Gibran
 
