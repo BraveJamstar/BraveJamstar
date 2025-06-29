@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Sadness is but a wall between two gardens. – Kahlil Gibran
+ Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit. – Conrad Hilton
 
