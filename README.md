@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit. – Conrad Hilton
+ No man is happy unless he believes he is. – Publilius Syrus
 
