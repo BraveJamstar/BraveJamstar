@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Great things are not done by impulse, but by a series of small things brought together. – Vincent van Gogh
+ Troubles are often the tools by which God fashions us for better things. – Henry Ward Beecher
 
