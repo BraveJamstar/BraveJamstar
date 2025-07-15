@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Sometimes out of your biggest misery, comes your greatest gain. – Steve Harvey
+ You will succeed because most people are lazy. – Shahir Zag
 
