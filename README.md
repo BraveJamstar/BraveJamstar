@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You will succeed because most people are lazy. – Shahir Zag
+ Well done is better than well said. – Benjamin Franklin
 
