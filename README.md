@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Well done is better than well said. – Benjamin Franklin
+ Ponder and deliberate before you make a move. – Sun Tzu
 
