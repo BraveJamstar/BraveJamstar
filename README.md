@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Ponder and deliberate before you make a move. – Sun Tzu
+ Better a diamond with a flaw than a pebble without one. – Chinese Proverb
 
