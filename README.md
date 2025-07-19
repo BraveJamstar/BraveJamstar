@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Better a diamond with a flaw than a pebble without one. – Chinese Proverb
+ Words used to attract the dull of wit are not to be relied on. – Huang Po
 
