@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Words used to attract the dull of wit are not to be relied on. – Huang Po
+ You're on earth. There's no cure for that. – Samuel Beckett
 
