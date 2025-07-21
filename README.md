@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You're on earth. There's no cure for that. – Samuel Beckett
+ Everything eaten is killed. Every meal is a sacrifice. – Adi Da Samraj
 
