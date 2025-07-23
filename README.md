@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Your work is to discover your work and then, with all your heart, to give yourself to it. – Buddha
+ Originality is the fine art of remembering what you hear but forgetting where you heard it.  – Laurence J. Peter
 
