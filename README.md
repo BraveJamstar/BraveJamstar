@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Originality is the fine art of remembering what you hear but forgetting where you heard it.  – Laurence J. Peter
+ When you're curious, you find lots of interesting things to do. – Walt Disney
 
