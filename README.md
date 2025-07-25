@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- When you're curious, you find lots of interesting things to do. – Walt Disney
+ To every action there is always opposed an equal reaction. – Isaac Newton
 
