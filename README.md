@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- To every action there is always opposed an equal reaction. – Isaac Newton
+ Creativity is the greatest rebellion in existence. – Osho
 
