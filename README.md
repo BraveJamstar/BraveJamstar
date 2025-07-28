@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be the silent watcher of your thoughts and behavior. You are beneath the thinker. – Eckhart Tolle
+ Confidence comes from crossing thresholds. – Kamal Ravikant
 
