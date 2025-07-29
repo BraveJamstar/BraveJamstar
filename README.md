@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Confidence comes from crossing thresholds. – Kamal Ravikant
+ What you do today can improve all your tomorrows. – Ralph Marston
 
