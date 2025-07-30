@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- What you do today can improve all your tomorrows. – Ralph Marston
+ Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  – Herodotus
 
