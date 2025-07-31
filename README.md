@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  – Herodotus
+ One mistake does not have to rule a person's entire life. – Joyce Meyer
 
