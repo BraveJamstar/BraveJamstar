@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. – Marcus Aurelius
+ How many times do you have to get hit over the head until you figure out who's hitting you? – Harry S. Truman
 
