@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be yourself; everyone else is already taken. – Oscar Wilde
+ Fishing is much more than fish. – Herbert Hoover
 
