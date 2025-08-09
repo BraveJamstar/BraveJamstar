@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Fishing is much more than fish. – Herbert Hoover
+ Don't criticize what you can't understand.  – Bob Dylan
 
