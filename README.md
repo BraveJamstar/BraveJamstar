@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't criticize what you can't understand.  – Bob Dylan
+ Management is doing things right; leadership is doing the right things. – Peter Drucker
 
