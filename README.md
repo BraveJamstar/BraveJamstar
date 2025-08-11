@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Management is doing things right; leadership is doing the right things. – Peter Drucker
+ The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar
 
