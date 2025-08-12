@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar
+ We must learn to live together as brothers or perish together as fools. – Martin Luther King, Jr.
 
