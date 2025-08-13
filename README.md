@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We must learn to live together as brothers or perish together as fools. – Martin Luther King, Jr.
+ It is not what we get. But who we become, what we contribute... that gives meaning to our lives. – Tony Robbins
 
