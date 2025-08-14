@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It is not what we get. But who we become, what we contribute... that gives meaning to our lives. – Tony Robbins
+ Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  – Nikola Tesla
 
