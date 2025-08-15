@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  – Nikola Tesla
+ Turn your face to the sun, as flowers know how to do. – Ming-Dao Deng
 
