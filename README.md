@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Turn your face to the sun, as flowers know how to do. – Ming-Dao Deng
+ Some people feel the rain. Others just get wet.  – Bob Dylan
 
