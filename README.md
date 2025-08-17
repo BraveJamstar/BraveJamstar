@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Some people feel the rain. Others just get wet.  – Bob Dylan
+ Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. – Richard Bach
 
