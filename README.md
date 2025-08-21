@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You are the average of the five people you spend most time with. – Jim Rohn
+ You can avoid reality, but you cannot avoid the consequences of avoiding reality. – Ayn Rand
 
