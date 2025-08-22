@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You can avoid reality, but you cannot avoid the consequences of avoiding reality. – Ayn Rand
+ A man who cannot tolerate small misfortunes can never accomplish great things. – Chinese Proverb
 
