@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A man who cannot tolerate small misfortunes can never accomplish great things. – Chinese Proverb
+ Do the hard jobs first. The easy jobs will take care of themselves. – Dale Carnegie
 
