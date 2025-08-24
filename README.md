@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Do the hard jobs first. The easy jobs will take care of themselves. – Dale Carnegie
+ Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference. – Robert Frost
 
