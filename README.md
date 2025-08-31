@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  – George Washington
+ There is always risk, so learn to manage risk instead of avoiding it. – Robert Kiyosaki
 
