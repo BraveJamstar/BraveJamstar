@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A lot of people have gone further than they thought they could because someone else thought they could. – Zig Ziglar
+ If no one ever broke the rules, then we'd never advance. – Simon Sinek
 
