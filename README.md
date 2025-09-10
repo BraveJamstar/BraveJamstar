@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A fall into a ditch makes you wiser. – Chinese Proverb
+ One small positive thought can change your whole day. – Zig Ziglar
 
