@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't try to steer the river. – Deepak Chopra
+ No problem can be solved from the same level of consciousness that created it. – Albert Einstein
 
