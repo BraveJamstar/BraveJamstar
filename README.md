@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I dream my painting and I paint my dream. – Vincent van Gogh
+ Success is getting what you want... Happiness is wanting what you get. – Dale Carnegie
 
