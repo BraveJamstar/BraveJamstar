@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You must be willing to do what others won't do, to have what others won't have. – Les Brown
+ When you move beyond your fear, you feel free. – Spencer Johnson
 
