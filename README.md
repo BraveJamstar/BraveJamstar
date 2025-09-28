@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. – Robert Greene
+ No man is free who is not master of himself. – Epictetus
 
