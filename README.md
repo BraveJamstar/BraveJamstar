@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The truth is not for all men, but for those who seek it. – Ayn Rand
+ I never dwell on what happened. You can't change it. Move forward. – Joan Rivers
 
