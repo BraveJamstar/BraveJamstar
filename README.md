@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Listen to the secret sound, the real sound, which is inside you. – Kabir
+ The eyes of others our prisons; their thoughts our cages. – Virginia Woolf
 
