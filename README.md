@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh. – Pema Chodron
+ You must learn to let go. Release the stress. You were never in control anyway. – Steve Maraboli
 
