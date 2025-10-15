@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- When it is dark enough, you can see the stars. – Ralph Waldo Emerson
+ Life is trying things to see if they work. – Ray Bradbury
 
