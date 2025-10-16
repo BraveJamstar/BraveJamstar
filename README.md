@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Life is trying things to see if they work. – Ray Bradbury
+ Desire is suffering. – Naval Ravikant
 
