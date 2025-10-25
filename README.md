@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Greatest success comes just one step beyond the point at which defeat overtakes you. – Unknown
+ Love is the absence of judgment. – Dalai Lama
 
