@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Integrity is the ability to stand by an idea. – Ayn Rand
+ One beam, no matter how big, cannot support an entire house on its own. – Chinese Proverb
 
