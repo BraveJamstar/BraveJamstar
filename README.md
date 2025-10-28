@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- One beam, no matter how big, cannot support an entire house on its own. – Chinese Proverb
+ There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. – G.I. Gurdjieff
 
