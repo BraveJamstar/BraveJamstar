@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The purpose of life is the life of purpose. – Robin Sharma
+ Never let the fear of striking out keep you from playing the game. – Babe Ruth
 
