@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- He who knows best knows how little he knows. – Thomas Jefferson
+ It is indeed a radical act of love just to sit down and be quiet for a time by yourself. – Jon Kabat-Zinn
 
