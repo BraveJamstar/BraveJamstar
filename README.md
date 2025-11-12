@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A hopeless man is a very desperate and dangerous man, almost a dead man. – Robert F. Kennedy
+ Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. – Kahlil Gibran
 
