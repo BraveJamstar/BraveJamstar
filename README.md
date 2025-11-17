@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Dream big. Start small. But most of all, start. – Simon Sinek
+ The power to make and break habits and learning how to do that is really important. – Naval Ravikant
 
