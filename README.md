@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The power to make and break habits and learning how to do that is really important. – Naval Ravikant
+ I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. – Elon Musk
 
