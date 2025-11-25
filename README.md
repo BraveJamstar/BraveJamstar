@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The Truth is realized in an instant; the Act is practiced step by step. – Seungsahn
+ Before anything else, preparation is the key to success. – Alexander Graham Bell
 
