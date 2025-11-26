@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Before anything else, preparation is the key to success. – Alexander Graham Bell
+ The soul without imagination is what an observatory would be without a telescope. – Henry Ward Beecher
 
