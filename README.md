@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The foolish reject what they see, not what they think; the wise reject what they think, not what they see. – Huang Po
+ He who can, does. – George Bernard Shaw
 
