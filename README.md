@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If you do not push the boundaries, you will never know where they are. – T.S. Eliot
+ Decide whether or not the goal is worth the risks involved. If it is, stop worrying. – Amelia Earhart
 
