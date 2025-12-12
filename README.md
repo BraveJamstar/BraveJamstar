@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The important thing is not to stop questioning. Curiosity has its own reason for existing. – Albert Einstein
+ Most people achieved their greatest success one step beyond what looked like their greatest failure. – Brian Tracy
 
