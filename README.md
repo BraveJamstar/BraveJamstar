@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Most people achieved their greatest success one step beyond what looked like their greatest failure. – Brian Tracy
+ Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. – James Cameron
 
