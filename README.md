@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. – James Cameron
+ One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. – Elbert Hubbard
 
