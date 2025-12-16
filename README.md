@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. – Dogen
+ Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself. – Samuel Butler
 
