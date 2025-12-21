@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Luck is a matter of preparation meeting opportunity. – Oprah Winfrey
+ You'll get more from being a peacemaker than a warrior. – Arnold Schwarzenegger
 
