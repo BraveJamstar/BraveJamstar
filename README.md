@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Never spend your money before you have earned it. – Thomas Jefferson
+ Longevity is a fleeting moment that lasts forever. – Vidal Sassoon
 
