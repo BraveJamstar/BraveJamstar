@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Muddy water is best cleared by leaving it alone. – Alan Watts
+ Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. – Carl Bard
 
