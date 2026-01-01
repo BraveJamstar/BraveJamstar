@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We have to live life with a sense of urgency so not a minute is wasted. – Les Brown
+ You have to make time, even for something as universal as staring at the stars. – W.P. Kinsella
 
