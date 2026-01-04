@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Far more crucial than what we know or do not know is what we do not want to know. – Eric Hoffer
+ Age is a very high price to pay for maturity. – William James
 
