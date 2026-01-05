@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Age is a very high price to pay for maturity. – William James
+ When the world pushes you to your knees, you're in the perfect position to pray. – Rumi
 
