@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Most people spend more time and energy going around problems than in trying to solve them.  – Henry Ford
+ People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love. – Dr. Seuss
 
