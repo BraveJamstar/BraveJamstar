@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love. – Dr. Seuss
+ To be prepared is half the victory.  – Miguel de Cervantes
 
