@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- To be prepared is half the victory.  – Miguel de Cervantes
+ The most creative act you will ever undertake is the act of creating yourself. – Deepak Chopra
 
