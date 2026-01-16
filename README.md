@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- To do two things at once is to do neither. – Publilius Syrus
+ The goal is not to be perfect by the end, the goal is to be better today. – Simon Sinek
 
