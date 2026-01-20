@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It's better to dance than to march through life. – Yoko Ono
+ Outstanding people have one thing in common: an absolute sense of mission.   – Zig Ziglar
 
