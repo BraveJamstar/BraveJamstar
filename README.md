@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Outstanding people have one thing in common: an absolute sense of mission.   – Zig Ziglar
+ The friendship that can cease has never been real.  – St. Jerome
 
