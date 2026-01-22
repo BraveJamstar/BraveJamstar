@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The friendship that can cease has never been real.  – St. Jerome
+ You need to be doing fewer things for more effect instead of doing more things with side effects. – Gary Keller
 
