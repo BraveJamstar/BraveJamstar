@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You need to be doing fewer things for more effect instead of doing more things with side effects. – Gary Keller
+ If the happiness and prosperity of other people depend on you, you have nothing to fear anymore. – Robert Greene
 
