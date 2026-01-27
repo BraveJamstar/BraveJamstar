@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You are free, and that is why you are lost.  – Franz Kafka
+ If someone betrays you once, it's their fault; if they betray you twice, it's your fault. – Eleanor Roosevelt
 
