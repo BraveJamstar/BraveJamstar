@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Know yourself and you will win all battles. – Sun Tzu
+ What you get by achieving your goals is not as important as what you become by achieving your goals. – Henry David Thoreau
 
