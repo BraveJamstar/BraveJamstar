@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- No one can hurt you without your consent. – Eleanor Roosevelt
+ No one ever said life was fair. Just Eventful. – Carol Burnett
 
