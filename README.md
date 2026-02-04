@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- No one ever said life was fair. Just Eventful. – Carol Burnett
+ The more knowledge you have, the more you're free to rely on your instincts. – Arnold Schwarzenegger
 
