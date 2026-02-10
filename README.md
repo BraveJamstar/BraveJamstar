@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You are not one person, but three: The one you think you are; The one others think you are; The one you really are. – Sathya Sai Baba
+ All great truths begin as blasphemies. – George Bernard Shaw
 
