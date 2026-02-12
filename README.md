@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Man's character is his fate. – Heraclitus
+ We are all self-made, but only the successful will admit it. – Earl Nightingale
 
