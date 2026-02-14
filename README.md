@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- All leaders are readers. – Jim Rohn
+ Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. – Jonathan Swift
 
