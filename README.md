@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- To a mind that is still, the entire universe surrenders. – Zhuangzi
+ Children are our greatest natural resource. – Herbert Hoover
 
