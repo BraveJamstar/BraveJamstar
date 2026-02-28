@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A comfort zone is a beautiful place, but nothing ever grows there. – Unknown
+ It's your life-but only if you make it so. – Eleanor Roosevelt
 
