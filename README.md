@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It's your life-but only if you make it so. – Eleanor Roosevelt
+ The man who removes a mountain begins by carrying away small stones. – William Faulkner
 
