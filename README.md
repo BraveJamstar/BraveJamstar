@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We can spend our whole lives escaping from the monsters of our minds. – Pema Chodron
+ We cannot change anything unless we accept it. – Carl Jung
 
