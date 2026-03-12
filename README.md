@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We cannot change anything unless we accept it. – Carl Jung
+ Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions. – Criss Jami
 
