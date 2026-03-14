@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The best fighter is never angry. – Lao Tzu
+ Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations. – Alfred Adler
 
