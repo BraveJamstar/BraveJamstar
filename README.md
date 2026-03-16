@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. – Peter Drucker
+ We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies. – Emily Dickinson
 
