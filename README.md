@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be fascinated instead of frustrated. – Jim Rohn
+ Simple words, repeated daily, can change your life. – Maxime Lagace
 
