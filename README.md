@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Excellence is not an exception, it is a prevailing attitude. – Colin Powell
+ You are now, and you do become, what you think about. – Earl Nightingale
 
