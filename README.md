@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You are now, and you do become, what you think about. – Earl Nightingale
+ It's easier to lose than to win.   – Wayne Gretzky
 
