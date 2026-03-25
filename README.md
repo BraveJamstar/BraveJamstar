@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It's easier to lose than to win.   – Wayne Gretzky
+ Everything you've ever wanted is on the other side of fear. – Brian Tracy
 
