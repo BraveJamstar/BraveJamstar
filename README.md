@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Everything you've ever wanted is on the other side of fear. – Brian Tracy
+ Write to help yourself, publish to help others. – Jack Butcher
 
