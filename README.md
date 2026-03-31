@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Success is about creating value. – Candice Carpenter
+ I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in. – Virginia Woolf
 
