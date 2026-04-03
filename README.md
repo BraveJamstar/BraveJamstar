@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If I can laugh, I can live. – Christopher Reeve
+ Ideas do not reach perfection in a day, no matter how much study is put upon them. – Alexander Graham Bell
 
