@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Everybody needs a passion. That's what keeps life interesting. – Betty White
+ If you are going to achieve excellence in big things, you develop the habit in little matters. – Colin Powell
 
