@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't wish it were easier, wish you were better. – Jim Rohn
+ Your gift is something that you can do innately better than anything else. – Steve Harvey
 
