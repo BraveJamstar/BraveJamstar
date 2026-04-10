@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The greatest treasures are those invisible to the eye but found by the heart. – Judy Garland
+ He who wishes to be obeyed must know how to command. – Niccolo Machiavelli
 
