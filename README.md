@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I can live without money, but I cannot live without love. – Judy Garland
+ Enjoy life. There's plenty of time to be dead. – Hans Christian Andersen
 
