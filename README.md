@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. – Ralph Marston
+ Truth is such a rare thing, it is delighted to tell it. – Emily Dickinson
 
