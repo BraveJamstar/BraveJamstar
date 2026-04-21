@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Freedom lies in being bold. – Robert Frost
+ Your heart is the size of an ocean. Go find yourself in its hidden depths. – Rumi
 
