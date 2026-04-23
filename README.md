@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- When you judge another, you do not define them, you define yourself – Wayne Dyer
+ The only reason to be alive is to enjoy it. – Rita Mae Brown
 
