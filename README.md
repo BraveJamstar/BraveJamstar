@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The only reason to be alive is to enjoy it. – Rita Mae Brown
+ You can't get to a place that you don't believe exists. – Unknown
 
