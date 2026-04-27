@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- In the middle of difficulty lies opportunity. – Albert Einstein
+ I'm an optimist by choice not by stupidity. – Yanni
 
