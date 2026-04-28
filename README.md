@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I'm an optimist by choice not by stupidity. – Yanni
+ Self-knowledge is the beginning of self-correction. – Norman Vincent Peale
 
