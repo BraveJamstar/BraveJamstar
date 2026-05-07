@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If what you're doing is not your passion, you have nothing to lose. – Celestine Chua
+ It's the possibility of having a dream come true that makes life interesting. – Paulo Coelho
 
