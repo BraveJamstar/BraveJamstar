@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- There is no sadder sight than a young pessimist. – Mark Twain
+ Becoming a great leader doesn't mean being perfect. it means living with your imperfections. – Lolly Daskal
 
