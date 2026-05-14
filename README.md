@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Becoming a great leader doesn't mean being perfect. it means living with your imperfections. – Lolly Daskal
+ Do not bite at the bait of pleasure, till you know there is no hook beneath it. – Thomas Jefferson
 
