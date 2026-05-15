@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Do not bite at the bait of pleasure, till you know there is no hook beneath it. – Thomas Jefferson
+ The purpose of life is the life of purpose. – Robin Sharma
 
