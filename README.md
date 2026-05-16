@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The purpose of life is the life of purpose. – Robin Sharma
+ If I cannot do great things. I can do small things in a great way. – Martin Luther King, Jr.
 
