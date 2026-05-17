@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If I cannot do great things. I can do small things in a great way. – Martin Luther King, Jr.
+ Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. – Dan Millman
 
