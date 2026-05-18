@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. – Dan Millman
+ You play the hand you're dealt. I think the game's worthwhile.   – Christopher Reeve
 
