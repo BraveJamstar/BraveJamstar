@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You play the hand you're dealt. I think the game's worthwhile.   – Christopher Reeve
+ For the things we have to learn before we can do them, we learn by doing them. – Aristotle
 
