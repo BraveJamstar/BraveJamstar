@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- For the things we have to learn before we can do them, we learn by doing them. – Aristotle
+ We are willing to believe anything other than the truth. – Carlos Ruiz Zafon
 
