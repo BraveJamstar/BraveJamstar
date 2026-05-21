@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We are willing to believe anything other than the truth. – Carlos Ruiz Zafon
+ The salvation of the world lies in the human heart. – Vaclav Havel
 
