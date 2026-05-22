@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The salvation of the world lies in the human heart. – Vaclav Havel
+ Tomorrow is only found in the calendar of fools. – Og Mandino
 
