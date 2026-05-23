@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Tomorrow is only found in the calendar of fools. – Og Mandino
+ I'm not afraid of death, but I'm in no hurry to die. – Stephen Hawking
 
