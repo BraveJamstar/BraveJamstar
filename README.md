@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I'm not afraid of death, but I'm in no hurry to die. – Stephen Hawking
+ Presents are made for the pleasure of who gives them, not the merits of who receives them. – Carlos Ruiz Zafon
 
