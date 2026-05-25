@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Presents are made for the pleasure of who gives them, not the merits of who receives them. – Carlos Ruiz Zafon
+ The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. – Dan Millman
 
