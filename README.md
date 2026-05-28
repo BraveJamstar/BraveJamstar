@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Being wrong opens us up to the possibility of change. – Mark Manson
+ You just can't beat the person who never gives up. – Babe Ruth
 
