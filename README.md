@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better. – Spencer Johnson
+ Continuous effort - not strength or intelligence - is the key to unlocking our potential. – Winston Churchill
 
