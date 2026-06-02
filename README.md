@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Continuous effort - not strength or intelligence - is the key to unlocking our potential. – Winston Churchill
+ The only thing worse than being blind is having sight but no vision. – Helen Keller
 
