@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The only thing worse than being blind is having sight but no vision. – Helen Keller
+ You are always your own best guru, your own best teacher, the answers are always inside you. – Sathya Sai Baba
 
