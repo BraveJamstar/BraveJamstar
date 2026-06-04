@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You are always your own best guru, your own best teacher, the answers are always inside you. – Sathya Sai Baba
+ Expect the best of yourself, and then do what is necessary to make it a reality. – Ralph Marston
 
