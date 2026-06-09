@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I like the dreams of the future better than the history of the past. – Thomas Jefferson
+ Given the choice between the experience of pain and nothing, I would choose pain. – William Faulkner
 
