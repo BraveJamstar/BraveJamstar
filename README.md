@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Given the choice between the experience of pain and nothing, I would choose pain. – William Faulkner
+ Short cuts make long delays. – J.R.R. Tolkien
 
