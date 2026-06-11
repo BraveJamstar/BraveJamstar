@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Short cuts make long delays. – J.R.R. Tolkien
+ Every man desires to live long, but no man wishes to be old. – Jonathan Swift
 
