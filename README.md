@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Every man desires to live long, but no man wishes to be old. – Jonathan Swift
+ The future depends on what you do today. – Mahatma Gandhi
 
