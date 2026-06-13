@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The future depends on what you do today. – Mahatma Gandhi
+ You can't build a reputation on what you are going to do. – Henry Ford
 
