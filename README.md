@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You can't build a reputation on what you are going to do. – Henry Ford
+ Anger begins with folly, and ends with repentance. – Beverly Sills
 
