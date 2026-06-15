@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Anger begins with folly, and ends with repentance. – Beverly Sills
+ Your dream has to be bigger than your fear. – Steve Harvey
 
