@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Your dream has to be bigger than your fear. – Steve Harvey
+ The road to success is always under construction.. – Lily Tomlin
 
