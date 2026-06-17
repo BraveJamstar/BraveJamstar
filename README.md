@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The road to success is always under construction.. – Lily Tomlin
+ Never whine, never complain, never try to justify yourself. – Robert Greene
 
