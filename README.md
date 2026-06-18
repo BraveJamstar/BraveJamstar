@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Never whine, never complain, never try to justify yourself. – Robert Greene
+ But better die than live mechanically a life that is a repetition of repetitions. – D. H. Lawrence
 
