@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- All we have to decide is what to do with the time that is given to us. – J.R.R. Tolkien
+ Let us rather run the risk of wearing out than rusting out. – Theodore Roosevelt
 
