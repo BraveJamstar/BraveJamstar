@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Let us rather run the risk of wearing out than rusting out. – Theodore Roosevelt
+ Only when you can be extremely pliable and soft can you be extremely hard and strong. – Zen Proverb
 
