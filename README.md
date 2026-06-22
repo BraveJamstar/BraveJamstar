@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Only when you can be extremely pliable and soft can you be extremely hard and strong. – Zen Proverb
+ Argue for your limitations and sure enough, they're yours. – Richard Bach
 
