@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Argue for your limitations and sure enough, they're yours. – Richard Bach
+ You may be one person in this world, but to one person you may mean the world. – Unknown
 
