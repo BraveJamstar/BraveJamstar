@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You may be one person in this world, but to one person you may mean the world. – Unknown
+ You're on earth. There's no cure for that. – Samuel Beckett
 
