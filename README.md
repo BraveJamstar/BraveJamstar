@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You're on earth. There's no cure for that. – Samuel Beckett
+ The best fighter is never angry. – Lao Tzu
 
