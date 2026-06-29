@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Truth is the offspring of silence and meditation. – Isaac Newton
+ All leaders are readers. – Jim Rohn
 
