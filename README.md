@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- All leaders are readers. – Jim Rohn
+ To create more positive results in your life, replace 'if only' with 'next time'. – Celestine Chua
 
