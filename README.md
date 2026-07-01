@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- To create more positive results in your life, replace 'if only' with 'next time'. – Celestine Chua
+ People who say it cannot be done should not interrupt those who are doing it. – George Bernard Shaw
 
