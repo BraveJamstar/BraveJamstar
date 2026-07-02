@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- People who say it cannot be done should not interrupt those who are doing it. – George Bernard Shaw
+ No one ever said life was fair. Just Eventful. – Carol Burnett
 
