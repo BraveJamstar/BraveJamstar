@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Patience is bitter, but its fruit is sweet. – Aristotle
+ One of the advantages of being disorganized is that one is always having surprising discoveries. – A.A. Milne
 
