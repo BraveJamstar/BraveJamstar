@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- One of the advantages of being disorganized is that one is always having surprising discoveries. – A.A. Milne
+ Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. – Betty White
 
