@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. – Betty White
+ It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. – Sun Tzu
 
