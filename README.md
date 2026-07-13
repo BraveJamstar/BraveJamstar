@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Success is a consequence and must not be a goal. – Gustave Flaubert
+ Words, once they are printed, have a life of their own. – Carol Burnett
 
