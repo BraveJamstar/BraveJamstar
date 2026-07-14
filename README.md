@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Words, once they are printed, have a life of their own. – Carol Burnett
+ Pain doesn't last. And when it's gone, we have something to show for it. Growth. – Kamal Ravikant
 
