@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Pain doesn't last. And when it's gone, we have something to show for it. Growth. – Kamal Ravikant
+ There's no next time. It's now or never. – Celestine Chua
 
