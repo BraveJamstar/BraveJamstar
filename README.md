@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- There's no next time. It's now or never. – Celestine Chua
+ Knowing others is wisdom, knowing yourself is enlightenment. – Lao Tzu
 
