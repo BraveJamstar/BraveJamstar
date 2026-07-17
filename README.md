@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Knowing others is wisdom, knowing yourself is enlightenment. – Lao Tzu
+ Death and life have their determined appointments; riches and honors depend upon heaven. – Confucius
 
