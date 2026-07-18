@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Death and life have their determined appointments; riches and honors depend upon heaven. – Confucius
+ Would you rather live your life according to the approval of others or aligned with your truth and your dreams? – Robin Sharma
 
