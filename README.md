@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. – Albus Dumbledore
+ An action committed in anger is an action doomed to failure. – Genghis Khan
 
