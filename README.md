@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Do Something. If it works, do more of it. If it doesn't, do something else. – Franklin D. Roosevelt
+ Nothing makes a man broad-minded like adversity. – Will Rogers
 
