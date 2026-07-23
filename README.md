@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Nothing makes a man broad-minded like adversity. – Will Rogers
+ You have the potential for greatness. – Steve Harvey
 
