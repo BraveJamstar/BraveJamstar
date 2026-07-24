@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You have the potential for greatness. – Steve Harvey
+ Change is hard at first, messy in the middle and gorgeous at the end. – Robin Sharma
 
