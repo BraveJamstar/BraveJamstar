@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Change is hard at first, messy in the middle and gorgeous at the end. – Robin Sharma
+ It is amazing what you can accomplish if you do not care who gets the credit. – Harry S. Truman
 
