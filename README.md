@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Let us rather run the risk of wearing out than rusting out. – Theodore Roosevelt
+ But better die than live mechanically a life that is a repetition of repetitions. – D. H. Lawrence
 
