@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Be kind, for everyone you meet is fighting a harder battle. – Plato
+ If you let your head get too big, it'll break your neck. – Elvis Presley
 
