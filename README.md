@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If you let your head get too big, it'll break your neck. – Elvis Presley
+ It isn't that they can't see the solution. It is that they can't see the problem. – Gilbert Chesterton
 
