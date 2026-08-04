@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It all depends on what you choose to believe. – Spencer Johnson
+ Love never keeps a man from pursuing his destiny. – Paulo Coelho
 
