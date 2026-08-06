@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. – Epictetus
+ Talk sense to a fool and he calls you foolish. – Euripides
 
