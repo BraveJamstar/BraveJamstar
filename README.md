@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Talk sense to a fool and he calls you foolish. – Euripides
+ Ability is a poor man's wealth. – John Wooden
 
