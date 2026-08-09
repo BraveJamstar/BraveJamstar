@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The greatest discovery of all time is that a person can change their future by merely changing their attitude. – Oprah Winfrey
+ Magic is believing in yourself, if you can do that, you can make anything happen. – Johann Wolfgang von Goethe
 
