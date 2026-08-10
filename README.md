@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Magic is believing in yourself, if you can do that, you can make anything happen. – Johann Wolfgang von Goethe
+ Correct what you can. Learn from what you can't. – Toni Morrison
 
