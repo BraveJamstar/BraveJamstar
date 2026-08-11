@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Correct what you can. Learn from what you can't. – Toni Morrison
+ Still your waters. – Josh Waitzkin
 
