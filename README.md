@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Still your waters. – Josh Waitzkin
+ Keep your face to the sunshine and you cannot see the shadows. – Helen Keller
 
