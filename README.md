@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Man suffers only because he takes seriously what the gods made for fun. – Alan Watts
+ Motivation is what gets you started. Habit is what keeps you going. – Jim Rohn
 
