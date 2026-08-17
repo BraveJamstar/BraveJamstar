@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Motivation is what gets you started. Habit is what keeps you going. – Jim Rohn
+ Your happiness is what truly matters most. Do what you have to do in order to be happy. – Brian Tracy
 
