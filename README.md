@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Your happiness is what truly matters most. Do what you have to do in order to be happy. – Brian Tracy
+ Why change? Everyone has his own style. When you have found it, you should stick to it. – Audrey Hepburn
 
