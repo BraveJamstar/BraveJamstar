@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Listen to the secret sound, the real sound, which is inside you. – Kabir
+ Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. – Nikola Tesla
 
