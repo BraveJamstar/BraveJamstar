@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. – Richard Bach
+ Whatever you decide to do, make sure it makes you happy. – Paulo Coelho
 
