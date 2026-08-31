@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Keep your eyes on the goal, and just keep taking the next step towards completing it. – John Carmack
+ To a mind that is still, the entire universe surrenders. – Zhuangzi
 
