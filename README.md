@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Force has no place where there is need of skill. – Herodotus
+ If you don't find the time, if you don't do the work, you don't get the results. – Arnold Schwarzenegger
 
