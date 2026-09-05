@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Do good by stealth, and blush to find it fame. – Alexander Pope
+ However difficult life may seem, there is always something you can do and succeed at. – Stephen Hawking
 
