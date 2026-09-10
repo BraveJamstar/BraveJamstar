@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We are all like the bright moon, we still have our darker side. – Kahlil Gibran
+ Simple words, repeated daily, can change your life. – Maxime Lagace
 
