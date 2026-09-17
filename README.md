@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. – Brian Tracy
+ When things go wrong, don't go with them. – Elvis Presley
 
