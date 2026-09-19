@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Till it has loved, no man or woman can become itself. – Emily Dickinson
+ Make your mind your own business. – Jack Butcher
 
