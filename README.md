@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The smallest act of kindness is worth more than the greatest intention. – Kahlil Gibran
+ Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself. – Samuel Butler
 
