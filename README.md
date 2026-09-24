@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- When we strive to become better than we are, everything around us becomes better, too. – Paulo Coelho
+ You are what you believe in. You become that which you believe you can become. – Bhagavad Gita
 
