@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You are what you believe in. You become that which you believe you can become. – Bhagavad Gita
+ Give so much away people insist on paying you. – Jack Butcher
 
