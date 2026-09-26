@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Give so much away people insist on paying you. – Jack Butcher
+ If you get up one more time than you fall, you will make it through. – Chinese Proverb
 
