@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If you get up one more time than you fall, you will make it through. – Chinese Proverb
+ Don't let your learning lead to knowledge. Let your learning lead to action. – Jim Rohn
 
