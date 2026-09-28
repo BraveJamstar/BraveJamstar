@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Don't let your learning lead to knowledge. Let your learning lead to action. – Jim Rohn
+ One mistake does not have to rule a person's entire life. – Joyce Meyer
 
