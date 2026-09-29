@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- One mistake does not have to rule a person's entire life. – Joyce Meyer
+ Silence is a source of great strength. – Lao Tzu
 
