@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- If you've made a mistake, it's better just to laugh at it. – Zen Proverb
+ When you stop questioning, you stop learning. – Lolly Daskal
 
