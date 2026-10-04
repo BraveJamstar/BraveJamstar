@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- We are born from a quiet sleep, and we die to a calm awakening – Zhuangzi
+ Would you rather learn to deal with the truth now than be forced to do so later on? – Celestine Chua
 
