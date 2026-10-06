@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Engage in those actions and thoughts that nurture the good qualities you want to have. – Paramahansa Yogananda
+ A gentleman is one who puts more into the world than he takes out. – George Bernard Shaw
 
