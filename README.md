@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A gentleman is one who puts more into the world than he takes out. – George Bernard Shaw
+ Be happy now, without reason - or you never will be at all. – Dan Millman
 
