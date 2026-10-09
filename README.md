@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Success is not how high you have climbed, but how you make a positive difference to the world. – Roy T. Bennett
+ The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool. – Ray Bradbury
 
