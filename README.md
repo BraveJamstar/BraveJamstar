@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool. – Ray Bradbury
+ Ability is a poor man's wealth. – John Wooden
 
