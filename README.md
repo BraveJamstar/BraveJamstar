@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Ability is a poor man's wealth. – John Wooden
+ You only live once, but if you do it right, once is enough. – Mae West
 
