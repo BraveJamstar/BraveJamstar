@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- You only live once, but if you do it right, once is enough. – Mae West
+ Those who know, do. Those that understand, teach. – Aristotle
 
