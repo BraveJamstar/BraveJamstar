@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Genius is one percent inspiration and ninety-nine percent perspiration. – Thomas Edison
+ Everything eaten is killed. Every meal is a sacrifice. – Adi Da Samraj
 
