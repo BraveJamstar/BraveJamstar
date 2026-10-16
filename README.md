@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Everything eaten is killed. Every meal is a sacrifice. – Adi Da Samraj
+ As we first succeed, we will find ourselves in new situations, facing new problems. – Ryan Holiday
 
