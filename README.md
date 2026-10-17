@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- As we first succeed, we will find ourselves in new situations, facing new problems. – Ryan Holiday
+ You've got to get up every morning with determination if you're going to go to bed with satisfaction. – George Lorimer
 
