@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Success is about doing the right thing, not about doing everything right. – Gary Keller
+ Each day your life grows a day shorter. Make every move count. – Ming-Dao Deng
 
