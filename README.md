@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. – Henry Ward Beecher
+ The wiser you get, the less you care to look like a fool. – Maxime Lagace
 
