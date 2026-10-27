@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Loving thoughts and actions are clearly beneficial for our physical and mental health. – Dalai Lama
+ Still your waters. – Josh Waitzkin
 
