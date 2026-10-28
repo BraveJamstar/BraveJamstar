@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Still your waters. – Josh Waitzkin
+ What we dwell on is who we become. – Oprah Winfrey
 
