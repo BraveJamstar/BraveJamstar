@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The more reasons you have for achieving your goal, the more determined you will become. – Brian Tracy
+ Distant water does not put out a nearby fire. – Chinese Proverb
 
