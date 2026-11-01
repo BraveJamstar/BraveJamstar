@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- When you believe in a thing, believe in it all the way, implicitly and unquestionable. – Walt Disney
+ When something comes from within, when it is a part of you, you have no choice but to live it, to express it. – Kamal Ravikant
 
