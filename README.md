@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- When something comes from within, when it is a part of you, you have no choice but to live it, to express it. – Kamal Ravikant
+ If you want others to be happy, practice compassion. If you want to be happy, practice compassion. – Dalai Lama
 
