@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- When the time is gone, you can never get it back. – Stephen King
+ What the eye doesn't see and the mind doesn't know, doesn't exist. – D. H. Lawrence
 
