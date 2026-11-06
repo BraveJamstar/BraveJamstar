@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Debt is the slavery of the free. – Publilius Syrus
+ Your mind is infinite, it's your doubts that are limiting. – Robert Kiyosaki
 
