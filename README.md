@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. – Colin Powell
+ A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. – Roy T. Bennett
 
