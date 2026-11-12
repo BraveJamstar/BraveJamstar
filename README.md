@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. – Roy T. Bennett
+ In the practice of tolerance, one's enemy is the best teacher. – Dalai Lama
 
