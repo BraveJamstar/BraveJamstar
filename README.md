@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- In the practice of tolerance, one's enemy is the best teacher. – Dalai Lama
+ An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question. – John Tukey
 
