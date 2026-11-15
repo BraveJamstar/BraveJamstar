@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- There is nothing more frightful than ignorance in action. – Johann Wolfgang von Goethe
+ The weak can never forgive. Forgiveness is the attribute of the strong. – Mahatma Gandhi
 
