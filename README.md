@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- The weak can never forgive. Forgiveness is the attribute of the strong. – Mahatma Gandhi
+ I dream my painting and I paint my dream. – Vincent van Gogh
 
