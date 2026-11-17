@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- I dream my painting and I paint my dream. – Vincent van Gogh
+ If you can't argue both sides, you can't argue. – Jack Butcher
 
