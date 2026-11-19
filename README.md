@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Silence is a source of great strength. – Lao Tzu
+ You are never too old to become younger. – Mae West
 
