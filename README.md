@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- Never waste a minute of your precious life thinking about people you don't like. – Celestine Chua
+ To avoid criticism, do nothing, say nothing, and be nothing. – Elbert Hubbard
 
