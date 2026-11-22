@@ -25,5 +25,5 @@ When I'm not coding, you can find me:
 ---
 ### 💡 Quote of the Day
 
- To avoid criticism, do nothing, say nothing, and be nothing. – Elbert Hubbard
+ Peace is not the absence of conflict, but the ability to cope with it. – Unknown
 
